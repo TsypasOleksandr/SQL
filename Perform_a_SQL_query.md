@@ -40,7 +40,6 @@ FROM machines;
 - Retrieving data from database tables
 - Selecting specific columns
 - Organizing query results
-- Working with MariaDB
 - Basic database analysis
 
 
