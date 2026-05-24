@@ -1,4 +1,4 @@
-# SQL Query Practice with MariaDB
+# SQL Query Practice 
 
 In this lab I practiced retrieving and organizing information from database tables using SQL queries in MariaDB.
 
